@@ -3,13 +3,19 @@
 ! Description: Combines multiple block lists into one comprehensive list.
 ! Homepage: https://github.com/SerhiiMandrykin/blocklists
 ! License: MIT
-! Last modified: 2025-12-01T19:27:37.857Z
+! Last modified: 2025-12-01T19:34:06.508Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
+||*.ru^
+||*.su^
 ||yandexmetrica.com^
 ||yandex.com^
 ||vk.com^
+||*.xn--p1ag^
+||*.xn--p1acf^
+||*.by^
+||*.xn--90ais^
 ||fusu.cc^
 ||t.com^
 /go{3,}gle\.com/
