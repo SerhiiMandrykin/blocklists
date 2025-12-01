@@ -1,0 +1,13 @@
+!
+! Title: Combined List - ALL
+! Description: Combines multiple block lists into one comprehensive list.
+! Last modified: 2025-12-01T19:07:32.109Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.39
+!
+||yandexmetrica.com^
+||yandex.com^
+||vk.com^
+||fusu.cc^
+||t.com^
+/go{3,}gle\.com/
