@@ -10,7 +10,6 @@
   ],
   "transformations": [
     "RemoveComments",
-    "Validate",
     "TrimLines",
     "ConvertToAscii",
     "InsertFinalNewLine"

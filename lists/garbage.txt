@@ -4,8 +4,9 @@
 ||yandexmetrica.com^
 ||yandex.com^
 ||vk.com^
-||*.xn--p1ai^
+||*.ру^
+||*.рус^
 
 # Block belarus garbage
 ||*.by^
-||*.xn--90ais^
+||*.бел^
