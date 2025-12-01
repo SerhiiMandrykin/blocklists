@@ -1,0 +1,12 @@
+# Block russian garbage
+||*.ru^
+||*.su^
+||yandexmetrica.com^
+||yandex.com^
+||vk.com^
+||*.ру^
+||*.рус^
+
+# Block belarus garbage
+||*.by^
+||*.бел^

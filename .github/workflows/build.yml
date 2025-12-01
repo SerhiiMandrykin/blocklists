@@ -1,0 +1,41 @@
+name: Update Blocklists
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'lists/**'
+      - 'configs/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: '25'
+
+      - name: Install HostlistCompiler
+        run: npm install -g @adguard/hostlist-compiler
+
+      - name: Create output directory
+        run: mkdir -p combined
+
+      - name: Build 'All' List
+        # Syntax: hostlist-compiler -c <config> -o <output_file>
+        run: hostlist-compiler -c configs/all.json -o combined/all.txt
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update filters via HostlistCompiler"
+          file_pattern: 'combined/*.txt'
