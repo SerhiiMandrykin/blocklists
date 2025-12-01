@@ -41,7 +41,7 @@ This project uses "Infrastructure as Code" to manage blocklists.
 
 ## 🤝 Contributing
 
-Found a Russian propaganda site, a phishing link, or a false positive?
+Found a russian propaganda site, a phishing link, or a false positive?
 
 1. **Open an Issue** in this repository.
 2. Or create a **Pull Request** adding the domain to the appropriate file in the `lists/` folder.
