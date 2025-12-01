@@ -3,7 +3,7 @@
 ! Description: Combines multiple block lists into one comprehensive list.
 ! Homepage: https://github.com/SerhiiMandrykin/blocklists
 ! License: MIT
-! Last modified: 2025-12-01T19:13:08.864Z
+! Last modified: 2025-12-01T19:27:37.857Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
