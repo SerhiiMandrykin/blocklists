@@ -16,6 +16,7 @@ Select the list that suits your needs. Copy the **Link** and add it to your AdGu
 | List Name | Description | Link (Copy this) |
 | :--- | :--- | :--- |
 | **🛡️ Combined: ALL** | **Recommended.** Includes everything: Garbage, Malware. | `https://raw.githubusercontent.com/SerhiiMandrykin/blocklists/main/combined/all.txt` |
+| **🚫 Block Russian Garbage** | Combines lists to block all russian garbage and disinformation. | `https://raw.githubusercontent.com/SerhiiMandrykin/blocklists/main/combined/fuckallrussian.txt` |
 
 > **Note:** These lists are automatically updated and deduplicated every time changes are pushed to this repository.
 

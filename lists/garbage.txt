@@ -33,18 +33,6 @@
 ||mycdn.me^
 ||mrusercontent.com^
 
-! Political disinformation website campaigns in russia
-||bild.ltd^
-||bild.pics^
-||bild.eu.com^
-||bild.llc^
-||bild-d.beauty^
-||bild.expert^
-||blld.live^
-||theguardian.co.com^
-||obozrevatel.ltd^
-||okmagazine.us^
-
 ! https://www.cybercom.mil/Media/News/Article/3895345/russian-disinformation-campaign-doppelgnger-unmasked-a-web-of-deception/
 ||nato.ws^
 ||rrn.media^

@@ -1,12 +1,10 @@
 {
-  "name": "Combined List - ALL",
-  "description": "Combines multiple block lists into one comprehensive list.",
+  "name": "Combined List - Block all russian garbage",
+  "description": "Combines lists to block all russian garbage and disinformation.",
   "homepage": "https://github.com/SerhiiMandrykin/blocklists",
   "license": "MIT",
   "sources": [
     { "source": "lists/garbage.txt", "type": "adblock" },
-    { "source": "lists/malware.txt", "type": "adblock" },
-    { "source": "lists/phishing.txt", "type": "adblock" },
     { "source": "lists/lists/russian_disinformation.txt", "type": "adblock" }
   ],
   "transformations": [

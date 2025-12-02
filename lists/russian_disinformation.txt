@@ -1,0 +1,713 @@
+! -----------------------------------------
+! The following is a list of websites, separated by owner or disinformation campaign, 
+! that have both been considered by journalists and researchers as distributing false
+! news - or otherwise participating in disinformation - and have been designated by
+! journalists and researchers as likely being linked to political actors based in russia.
+!
+! Source - https://en.wikipedia.org/wiki/List_of_political_disinformation_website_campaigns_in_Russia
+! Version - 09:02, 11 August 2025
+! -----------------------------------------
+
+! Spoofs the French newspaper 20 minutes.
+||20minuts.com^
+||50statesoflie.com^
+
+! Seized by the United States federal government in 2024.
+||Acrosstheline.press^
+||Avisindependent.eu^
+
+! Spoofs ANSA.
+||ansa.ltd^
+
+! Imitates Bild.
+||bild-d.beauty^
+
+! Imitates Bild.
+||bild.Asia^
+
+! Imitates Bild.
+||bild.beauty^
+
+! Imitates Bild.
+||bild.eu[.]com^
+
+! Imitates Bild.
+||bild.expert^
+
+! Imitates Bild.
+||Bild.llc^
+
+! Imitates Bild.
+||Bild.pics^
+
+! Imitates Bild.
+||bild.work^
+
+! Imitates Bild.
+||bildd.beauty^
+
+! Imitates Bild.
+||bildd.lol^
+
+! Imitates Bild.
+||blld.live^
+
+! Imitates Bild.
+||build.vip^
+
+! Imitates Bild. Seized by the United States federal government in 2024.
+||build.work^
+
+! Imitates Bild.
+||build.ws^
+||bund.pe^
+||bundespolizei.pe^
+||cropmarketchronicles.us^
+
+! Imitates The Daily Mail.
+||dailymail.cam^
+
+! Imitates The Daily Mail.
+||dailymail.cfd^
+
+! Imitates The Daily Mail.
+||dailymail.top^
+||delfi.life^
+||delfi.today^
+||delfi.top^
+||electionwatch.live^
+
+! Spoofs FAZ.
+||faz.agency^
+
+! Spoofs FAZ.
+||faz.beauty^
+
+! Spoofs FAZ.
+||faz.life^
+
+! Spoofs FAZ.
+||faz.lol^
+
+! Spoofs FAZ. Seized by the United States federal government in 2024.
+||faz.ltd^
+
+! Spoofs FAZ.
+||fazz.beauty^
+
+! Spoofs FAZ.
+||fazz.lol^
+
+! Spoofs Fox News. Seized by the United States federal government in 2024.
+||fox-news.in^
+
+! Spoofs Fox News. Seized by the United States federal government in 2024.
+||fox-news.top^
+||fraiesvolk.com^
+||gouv.fm^
+||govv.pw^
+
+! Seized by the United States federal government in 2024.
+||holylandherald.com^
+
+! Spoof of The Guardian that falsely claims Ukraine faked civilian deaths during the Bucha massacre.
+||theguardian.co[.]com^
+||infosindependants.fr^
+
+! Spoof of the Jewish Journal.
+||jewishjournal.info^
+||jiraboom.pro^
+||la-croix.cam^
+
+! Spoof of Le Monde. Seized by the United States federal government in 2024.
+||lemonde.ltd^
+
+! Spoof of Le Parisien.
+||leparisien.cc^
+
+! Spoof of Le Parisien. Seized by the United States federal government in 2024.
+||leparisien.ltd^
+
+! Spoof of Le Parisien.
+||leparisien.pm^
+||lepoint.foo^
+||lepoint.info^
+||liberation.ltd^
+||liesofwallstreet.com^
+
+! Spoof of Mako.
+||mako.news^
+||mfa-qov.info^
+||morgenpost.ltd^
+||nato.ws^
+
+! Spoofs Neues Deutschland.
+||nd-aktuell.co^
+
+! Spoofs Neues Deutschland.
+||nd-aktuell.net^
+
+! Spoofs Neues Deutschland.
+||nd-aktuell.pro^
+
+! Spoofs Obozrevatel.
+||obozrevatel.ltd^
+
+! Spoofs OK Magazine. On July 30, 2025, a fake website imitating okmagazine.us published a fabricated article about President of Moldova Maia Sandu allegedly buying sperm from gay celebrities to conceive a child prior to the parliamentary elections, which will be held in Moldova on September 28, 2025. According to Whois, the domain was registered on July 28, 2025.
+||okmagazine.us^
+||polityka.pro^
+||polskieradio24.net^
+
+! Spoofs Ukrainska Pravda. Seized by the United States federal government in 2024.
+||pravda-ua.com^
+
+! Spoofs Ukrainska Pravda.
+||pravda-ua.rest^
+
+! Spoofs Ukrainska Pravda.
+||pravda-ua.space^
+||rbk-sourse.digital^
+
+! Spoofs RBK Group. Seized by the United States federal government in 2024.
+||rbk.media^
+
+! Spoofs RBK Group.
+||rbk.today^
+
+! Spoofs La Repubblica.
+||repubblica.icu^
+
+! Spoofs La Repubblica.
+||repubblica.life^
+
+! Spoofs La Repubblica.
+||repubblica.world^
+
+! Seized by the United States federal government in 2024.
+||rrn.media^
+||Rrn.world^
+||schlauespiel.de^
+
+! Seized by the United States federal government in 2024.
+||shadowwatch.us^
+||spicyconspiracy.info^
+
+! Spoofs Der Spiegel. Seized by the United States federal government in 2024.
+||spiegel.agency^
+
+! Spoofs Der Spiegel.
+||spiegel.cab^
+
+! Spoofs Der Spiegel.
+||spiegel.fun^
+
+! Spoofs Der Spiegel.
+||spiegel.ink^
+
+! Spoofs Der Spiegel.
+||spiegel.ltd^
+
+! Spoofs Der Spiegel.
+||spiegel.pro^
+
+! Spoofs Der Spiegel.
+||spiegel.quest^
+
+! Spoofs Der Spiegel.
+||spiegel.today^
+
+! Spoofs Der Spiegel.
+||spiegel.work^
+
+! Spoofs Der Spiegel.
+||spiegeli.life^
+
+! Spoofs Der Spiegel.
+||spiegeli.live^
+
+! Spoofs Der Spiegel.
+||spiegeli.today^
+
+! Spoofs Der Spiegel.
+||spiegell.beauty^
+
+! Spoofs Der Spiegel.
+||spiegell.lol^
+
+! Spoofs Der Spiegel.
+||spiegelr.live^
+
+! Spoofs Der Spiegel.
+||spiegelr.today^
+||sueddeutsche.cc^
+
+! Seized by the United States federal government in 2024.
+||sueddeutsche.co^
+||sueddeutsche.ltd^
+||sueddeutsche.me^
+||sueddeutsche.online^
+
+! Spoofs T-Online.
+||t-online.life^
+
+! Spoofs T-Online.
+||t-onlinl.life^
+
+! Spoofs T-Online.
+||t-onlinl.live^
+
+! Spoofs T-Online.
+||t-onlinl.today^
+
+! Spoofs T-Online.
+||t-onlinr.life^
+
+! Spoofs T-Online.
+||t-onlinr.live^
+
+! Spoofs T-Online.
+||t-onlinr.today^
+
+! Spoofs Der Tagesspiegel. Seized by the United States federal government in 2024.
+||tagesspiegel.co^
+
+! Spoofs Der Tagesspiegel.
+||tagesspiegel.ltd^
+
+! Spoofs T-Online.
+||tonline.cfd^
+
+! Spoofs T-Online.
+||tonline.life^
+
+! Spoofs T-Online.
+||tonline.today^
+
+! Spoofs Ukrainska Pravda.
+||ua-pravda.click^
+||ukrlm.info^
+||unian.pm^
+
+! Spoofs Walla.
+||walla.com[.]co^
+
+! Spoofs the Washington Post.
+||washingtonpost.ltd^
+
+! Seized by the United States federal government in 2024.
+||warfareinsider.us^
+
+! Spoofs Welt.
+||welt.beauty^
+
+! Spoofs Welt.
+||welt.lol^
+
+! Spoofs Welt.
+||welt.ltd^
+
+! Spoofs Welt.
+||welt.media^
+
+! Spoofs Welt.
+||welt.tours^
+
+! Spoofs Welt.
+||welt.ws^
+
+! Spoofs Welt.
+||weltt.beauty^
+
+! Spoofs Welt.
+||weltt.lol^
+||zestiftung.com^
+||4memo.net^
+||5lavr.org^
+||ak-dovurak.press^
+||akua-suhum.info^
+||bc-sco.org^
+||biychanka.press^
+||chernomor.press^
+||ehoosha.com^
+||freemediaforum.info^
+||gatchina-dom.press^
+||gazetavest.info^
+||gorodostrov.info^
+||infobrics.org^
+||infodesna.info^
+||infokostroma.info^
+||infokrim.info^
+||infokursk.info^
+||infokursk.pro^
+||infolipetsk.com^
+||inforos.org^
+||inforyazan.com^
+||infosamara.press^
+||infosco.biz^
+||infosco.org^
+||infoterek.info^
+||infotula.com^
+||infovolga.com^
+||infovoronezh.com^
+||kaa-khem.press^
+||kosh-agach.com^
+||krasnoe-znamya.info^
+||kulebaki.press^
+||m-gazeta.info^
+||mairtup.info^
+||meleuzka.info^
+||moskva-reka.info^
+||novi-den.info^
+||novoselitskoe.info^
+||prokrym.info^
+||propeterburg.info^
+||prosaratov.info^
+||prosevastopol.info^
+||prospekt-sochi.com^
+||provladimir.info^
+||rusakartvelo.org^
+||ruvek.info^
+||sambo.com^
+||sarvesti.info^
+||sgzt.com^
+||tsotsi-yurt.info^
+||tvoya-gazeta.info^
+||urus-martan.info^
+||ust-ilim.press^
+||xn----8sbjhmaeayppbwkpbar6b.xn--p1ai^
+||yagodnoe.press^
+||yarbiz.info^
+||zernograd.biz^
+||zhatay.com^
+||dommechta.com^
+||metals-trading.pro^
+||rusoptics.com^
+||volnoe-delo.org^
+||prosambo.com^
+||rus1150.org^
+||ehoosha.com^
+||kobzarev.com^
+||genocide-in-ossetia.com^
+
+! Spoof of the BBC.
+||bbc-uk.news^
+
+! Spoof of The Boston Times, a 19th-20th century newspaper in the United States.
+! 
+! Asserted by France 24 of having its logo created by a Generative AI model.
+||bostontimes.org^
+||britishchronicle.com^
+||centralrecord.org^
+
+! Spoof of the Chicago Chronicle, a late 19th-early 20th century newspaper in the United States.
+||chicagochron.com^
+||chicagocrier.com^
+
+! Accused by the United States federal government of publishing fabricated audio of a conversation between US officials.
+||clearstory.news^
+
+! Published and spread false claims about Ukraine president Volodymyr Zelenskyy. Accused by researchers of using generative AI for their stories.
+||dcweekly.org^
+||falconeye.tech^
+||flagstaffpost.com^
+
+! Promoted an impostor site of the Renaissance Party that falsely claimed that the party would pay citizens to vote for them during the first round of the 2024 French legislative election.
+! 
+! Many articles were reposted from a website used in Russia's Doppelganger campaign. The Atlantic Council's Digital Forensic Research Lab concluded that the site likely used a large language model to attempt to rewrite articles from French news sources such as Le Parisien, 20 Minutes, Libération, Le Figaro, Le Monde, and La Croix.
+||franceencolere.fr^
+||gbgeopolitics.com^
+
+! Spoofs the Houston Post.
+! 
+! Includes prompts for large language models in some of its articles.
+||houstonpost.org^
+||infosindependants.fr^
+
+! Spread false claim about Kamala Harris. Imitates a local news TV station. Copied articles from ABC News and CBS News.
+||kbsf-tv.com^
+||londoncrier.co.uk^
+||londonchronicle.news^
+
+! Falsely claims to have been in existence since 1937, since it was registered in February 2024. The "About" page contains Loren ipsum. Some of the site images have filenames in Russian. According to the New York Times, the site does not have valid contact info. Accused by the United States federal government of publishing fabricated audio of a conversation between US officials.
+||miamichron.com^
+
+! Spoofs New York Daily News.
+||nynewsdaily.org^
+
+! Spoofs the San Francisco Chronicle.
+||sanfranchron.com^
+
+! Noted by researchers to use Generative AI to produce articles based on French news websites. Some article titles include prompts for large language models. Website name is misspelled, missing accents.
+||veritecachee.fr^
+||vidvist.com^
+||xposedem.com^
+||abakan-news.net^
+||adygheya-news.net^
+||altay-news.net^
+||amur-news.net^
+||arkhangelsk-news.net^
+||astrakhan-news.net^
+||baikal-news.net^
+||barnaul-news.net^
+||belgorod-news.net^
+||birobidzhan-news.net^
+||bryansk-news.net^
+||cheb-news.net^
+||chelyabinsk-news.net^
+||cherkessk-news.net^
+||chita-news.net^
+||chukotka-news.net^
+||crimea-news.com^
+||dagestan-news.net^
+||dneprnews.com.ua^
+||gazeta.kharkiv.ua^
+||georgia-news.com^
+||grozny-news.net^
+||ingushetiya-news.net^
+||irkutsk-news.net^
+||ivanovo-news.net^
+||izhevsk-news.net^
+||kaliningrad-news.net^
+||kalmykia-news.net^
+||kaluga-news.net^
+||kamchatka-news.net^
+||karelia-news.net^
+||kazan-news.net^
+||kemerovo-news.net^
+||khabarovsk-news.net^
+||kiev-news.com.ua^
+||kirov-news.net^
+||komi-news.net^
+||kostroma-news.net^
+||krasnodar-news.net^
+||krasnoyarsk-news.net^
+||kurgan-news.net^
+||kursk-news.net^
+||latvia-news.com^
+||lenta.donetsk.ua^
+||lenta.if.ua^
+||lenta.kharkiv.ua^
+||lenta.lviv.ua^
+||lenta.te.ua^
+||lipetsk-news.net^
+||lithuania-news.com^
+||magadan-news.net^
+||mariel-news.net^
+||moldova-news.com^
+||moskva-news.com^
+||msk-news.net^
+||murmansk-news.net^
+||nalchik-news.net^
+||nao-news.net^
+||news-armenia.com^
+||news-estonia.com^
+||news-pravda.com^
+||niknews.com.ua^
+||nikolaevnews.com.ua^
+||nn-news.net^
+||novgorod-news.net^
+||novosibirsk-news.net^
+||novyny.kr.ua^
+||novyny.zt.ua^
+||omsk-news.net^
+||orel-news.net^
+||orenburg-news.net^
+||penza-news.net^
+||perm-news.net^
+||piter-news.net^
+||pravda-de.com^
+||pravda-en.com^
+||pravda-es.com^
+||pravda-fr.com^
+||pravda-pl.com^
+||pravda-nl.com^
+||pravda-dk.com^
+||pravda-se.com^
+||pravda-fi.com^
+||pravda-ee.com^
+||pravda-lt.com^
+||pravda-lv.com^
+||pravda-cz.com^
+||pravda-sk.com^
+||pravda-si.com^
+||pravda-hr.com^
+||pravda-hu.com^
+||pravda-ro.com^
+||pravda-bg.com^
+||pravda-gr.com^
+||pravda-cy.com^
+||pravda-it.com^
+||pravda-ie.com^
+||pravda-pt.com^
+||pravda-al.com^
+||pravda-ba.com^
+||pravda-mk.com^
+||pravda-md.com^
+||pravda-rs.com^
+||pravda-no.com^
+||pravda-cf.com^
+||pravda-bf.com^
+||pravda-ne.com^
+||pravda-jp.com^
+||pravda-tw.com^
+||pravda-ko.com^
+||pskov-news.net^
+||rostov-news.net^
+||ryazan-news.net^
+||sakhalin-news.net^
+||samara-news.net^
+||saransk-news.net^
+||saratov-news.net^
+||sevastopol-news.com^
+||smolensk-news.net^
+||sochi-news.net^
+||stavropol-news.net^
+||tambov-news.net^
+||tolyatti-news.net^
+||tomsk-news.net^
+||topnews.ck.ua^
+||topnews.cn.ua^
+||topnews.cv.ua^
+||topnews.kiev.ua^
+||topnews.km.ua^
+||topnews.kr.ua^
+||topnews.ks.ua^
+||topnews.lg.ua^
+||topnews.odessa.ua^
+||topnews.pl.ua^
+||topnews.rv.ua^
+||topnews.sebastopol.ua^
+||topnews.sumy.ua^
+||topnews.uz[.]ua^
+||topnews.vn.ua^
+||topnews.volyn.ua^
+||topnews.zp.ua^
+||topnews.zt.ua^
+||tula-news.net^
+||tuva-news.net^
+||tver-news.net^
+||tyumen-news.net^
+||uanews.ck.ua^
+||uanews.cn.ua^
+||uanews.crimea.ua^
+||uanews.cv.ua^
+||uanews.donetsk.ua^
+||uanews.dp.ua^
+||uanews.if.ua^
+||uanews.kharkiv.ua^
+||uanews.km.ua^
+||uanews.kr.ua^
+||uanews.ks.ua^
+||uanews.lg.ua^
+||uanews.lviv.ua^
+||uanews.odessa.ua^
+||uanews.pl.ua^
+||uanews.rv.ua^
+||uanews.sumy.ua^
+||uanews.te.ua^
+||uanews.uz.ua^
+||uanews.vn.ua^
+||uanews.volyn.ua^
+||uanews.zp.ua^
+||uanews.zt.ua^
+||udmurt-news.net^
+||ufa-news.net^
+||ugra-news.net^
+||ulyanovsk-news.net^
+||ural-news.net^
+||vladikavkaz-news.net^
+||vladimir-news.net^
+||vladivostok-news.net^
+||volgograd-news.net^
+||vologda-news.net^
+||voronezh-news.net^
+||yakutsk-news.net^
+||yamal-news.net^
+||yaroslavl-news.net^
+
+! Alternative domain for RT, created after the Russo-Ukrainian War in 2022 to circumvent the broadcast ban in the European Union.
+||actualidad-rt.com^
+
+! Domain for RT, targeting French-speakers in African countries.
+||africa-rt.com^
+
+! Alternative domain for RT, created after the Russo-Ukrainian War in 2022 to circumvent the broadcast ban in the European Union.
+||esrt.press^
+
+! Alternative domain for RT, created after the Russo-Ukrainian War in 2022 to circumvent the broadcast ban in the European Union.
+||estr.online^
+
+! Originally a show on RT that became its own project in 2016. Its content was reposted on RT, and one of its employees also worked at Redfish. Owned by Maffick. Noted by researchers to primarily target younger and left-learning audiences and aim to worsen political divisions in the United States. Described by researchers as using "overt propaganda strategies" in its coverage of the Black Lives Matter protests of 2020.
+||inthenow.media^
+
+! Staffed by Lizzie Phelan, who previously worked for RT and Press TV. At least four other correspondents had previously worked for Russian state media. Presents itself as a "grassroots" and left-wing media startup. Its content is reposted on RT. Accused by Vice of being a front organization to spread propaganda from the Russian government. Described by propaganda researchers as having a sophisticated level of production, lacking direct display of ties to Russia, and reaching its audience's feelings of indignation at perceived hypocrisy in its use of whataboutism. Noted by researchers to primarily target younger and left-learning audiences and aim to worsen political divisions in the United States. Described by researchers as using "overt propaganda strategies" in its coverage of the Black Lives Matter protests of 2020.
+||redfish.media^
+
+! Funded by the Russian federal government. Accused by the Global Disinformation Index of spreading disinformation on 5G, COVID-19 and the 2020 US presidential election. Identified by the Center for Countering Digital Hate as a major distributor of climate change denialism.
+||rt.com^
+
+! Subsidiary of RT. Noted by researchers to primarily target younger and left-learning audiences and aim to worsen political divisions in the United States. Described by researchers as using "overt propaganda strategies" in its coverage of the Black Lives Matter protests of 2020.
+||ruptly.tv^
+
+! Domain for RT, targeting French-speakers in African countries.
+||rt-afrique.com^
+
+! Domain for RT, targeting French-speakers in African countries.
+||rtafrica.media^
+
+! Domain for RT, targeting French-speakers in African countries.
+||rtafrique.online^
+||britishtalks.com^
+||euronewstop.co.uk^
+||Newstop.africa^
+||Britishattitudes.com^
+
+! Spoofing of Al Jazeera. Likely part of an active measures campaign by the Russian government in 2017. Also part of Endless Mayfly, an Iran-affiliated disinformation campaign.
+||xn--aljaeera-4t0d.net^
+
+! Spoofing of The Atlantic. Likely part of an active measures campaign by the Russian government in 2017. Also part of Endless Mayfly, an Iran-affiliated disinformation campaign.
+||theatlatnic.com^
+
+! Registered in Lithuania in 2023. Accused by investigative journalists and disinformation researchers of being linked to Russia and of originating the claim that falsely identified the perpetrator of the 2024 Southport stabbing, leading to the 2024 United Kingdom riots. Noted by The Guardian and The Telegraph of potentially using Generative AI in some of its stories. A subsequent BBC investigation in August 2024 did not find evidence of ties to the Russian state, and described the site as "a commercial operation attempting to aggregate crime news while making money on social media."[78]
+||channel3now.com^
+
+! EADaily (Eurasia Daily) is a Russian-language news website that focuses on politics, economics, and international relations, particularly in the post-Soviet space. The website was founded in 2015 and positions itself as a provider of analytical journalism with a strong focus on Eurasian geopolitical issues. EADaily exhibits a strong pro-Russian, nationalist, and right-leaning bias, particularly in its coverage of international affairs. Its reporting often portrays Russia as a stabilizing force in global politics while casting Western nations, especially the United States, NATO, and the European Union, as aggressive or destabilizing actors. Coverage of conflicts involving Russia, such as the war in Ukraine, tends to present Ukrainian forces negatively while amplifying Russian military successes.
+||eadaily.com^
+
+! Spoofing of The Guardian that uses an IDN homograph attack in which the "i" in the "guardian" is replaced by the Turkish character "ı". Contains fabricated quotes from John Scarlett that suggest CIA and MI6 involvement in the Rose Revolution to weaken Russia. Likely part of an active measures campaign by the Russian government in 2017. Also part of Endless Mayfly, an Iran-affiliated disinformation campaign.
+||xn--theguardan-4ub.com^
+
+! Spoofing of Haaretz. Likely part of an active measures campaign by the Russian government in 2017. Also part of Endless Mayfly, an Iran-affiliated disinformation campaign.
+||xn--haarez-m17b.com^
+
+! Spoof of Le Soir. Part of Endless Mayfly, an Iran-affiliated disinformation campaign. Also used to spread a false claim about Emmanuel Macron's campaign being funded by Saudi Arabia during the 2017 French Presidential Election.
+||lesoir.info^
+
+! Includes prompts for large language models in some of its articles. Cites an NGO founded by Yevgeny Prigozhin as a source for a unverified claim that Ukrainian children were kidnapped by a foundation run by Olena Zelenska. Lists a fictitious journalist as a writer on its site. The owner of the website domain, Host Master, is a company in Cyprus that was previously convicted of fraud for selling domain names that were very similar to Google and the French company.
+||mediaalternatif.fr^
+
+! Funded by the FSB.
+||news-front.info^
+
+! Spread disinformation about COVID-19, including the false claim that COVID-19 is a bioweapon. Linked to Russian news agency InfoRos, which in turn is linked with the GRU.
+||ObservateurContinental.fr^
+
+! Russian troll farm working to elect Donald Trump and pushing fake pandemic information. Linked to Russian news agency InfoRos, which in turn is linked with the GRU.
+||Oneworld.press^
+||patrioticpioneer.com^
+
+! A website that purports to be an independent left-wing news outlet, linked to Russian state actors.
+||peacedata.net^
+
+! Impersonates the Seattle Tribune, a defunct 20th century newspaper.
+||seattle-tribune.com^
+
+! Accused by independent researchers of being sponsored by the Russian government.
+||southfront.org^
+||statestage.org^
+
+! Accused by independent researchers of being sponsored by the Russian government.
+||veteransnewsnow.com^
+
+! Accused by independent researchers of being sponsored by the Russian government.
+||veteranstoday.com^
