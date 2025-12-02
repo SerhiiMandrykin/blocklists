@@ -3,7 +3,7 @@
 ! Description: Combines multiple block lists into one comprehensive list.
 ! Homepage: https://github.com/SerhiiMandrykin/blocklists
 ! License: MIT
-! Last modified: 2025-12-01T19:34:06.508Z
+! Last modified: 2025-12-02T09:19:07.507Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -14,6 +14,43 @@
 ||vk.com^
 ||*.xn--p1ag^
 ||*.xn--p1acf^
+||russiatoday.com^
+||yandex.net^
+||my.com^
+||rt.com^
+||sputniknews.com^
+||tass.com^
+||rutracker.org^
+||kaspersky.com^
+||gazprom.com^
+||lukoil.com^
+||russia.tv^
+||yaplakal.com^
+||fishki.net^
+||joyreactor.cc^
+||lordfilm.to^
+||rezka.ag^
+||topwar.ru.com^
+||xbt.com^
+||yastatic.net^
+||yandex.*^
+||userapi.com^
+||vk-portal.net^
+||vkuser.net^
+||mycdn.me^
+||mrusercontent.com^
+||bild.ltd^
+||bild.pics^
+||bild.eu.com^
+||bild.llc^
+||bild-d.beauty^
+||bild.expert^
+||blld.live^
+||theguardian.co.com^
+||obozrevatel.ltd^
+||okmagazine.us^
+||nato.ws^
+||rrn.media^
 ||*.by^
 ||*.xn--90ais^
 ||fusu.cc^
