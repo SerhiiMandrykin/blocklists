@@ -3,7 +3,7 @@
 ! Description: Combines multiple block lists into one comprehensive list.
 ! Homepage: https://github.com/SerhiiMandrykin/blocklists
 ! License: MIT
-! Last modified: 2025-12-02T10:35:44.717Z
+! Last modified: 2025-12-02T10:40:30.236Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -54,7 +54,7 @@
 ||bild-d.beauty^
 ||bild.Asia^
 ||bild.beauty^
-||bild.eu[.]com^
+||bild.eu.com^
 ||bild.expert^
 ||Bild.llc^
 ||Bild.pics^
@@ -88,7 +88,7 @@
 ||gouv.fm^
 ||govv.pw^
 ||holylandherald.com^
-||theguardian.co[.]com^
+||theguardian.co.com^
 ||infosindependants.fr^
 ||jewishjournal.info^
 ||jiraboom.pro^
@@ -162,7 +162,7 @@
 ||ua-pravda.click^
 ||ukrlm.info^
 ||unian.pm^
-||walla.com[.]co^
+||walla.com.co^
 ||washingtonpost.ltd^
 ||warfareinsider.us^
 ||welt.beauty^
@@ -401,7 +401,7 @@
 ||topnews.rv.ua^
 ||topnews.sebastopol.ua^
 ||topnews.sumy.ua^
-||topnews.uz[.]ua^
+||topnews.uz.ua^
 ||topnews.vn.ua^
 ||topnews.volyn.ua^
 ||topnews.zp.ua^
