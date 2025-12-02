@@ -9,6 +9,7 @@
 ||russiatoday.com^
 ||yandex.net^
 ||yandexcloud.net^
+||yandexadexchange.net^
 ! Global brand of VK Group
 ||my.com^
 ||rt.com^
