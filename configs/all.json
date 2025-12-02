@@ -7,7 +7,7 @@
     { "source": "lists/garbage.txt", "type": "adblock" },
     { "source": "lists/malware.txt", "type": "adblock" },
     { "source": "lists/phishing.txt", "type": "adblock" },
-    { "source": "lists/lists/russian_disinformation.txt", "type": "adblock" }
+    { "source": "lists/russian_disinformation.txt", "type": "adblock" }
   ],
   "transformations": [
     "RemoveComments",
