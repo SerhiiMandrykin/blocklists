@@ -29,7 +29,7 @@
 ||bild.beauty^
 
 ! Imitates Bild.
-||bild.eu[.]com^
+||bild.eu.com^
 
 ! Imitates Bild.
 ||bild.expert^
@@ -111,7 +111,7 @@
 ||holylandherald.com^
 
 ! Spoof of The Guardian that falsely claims Ukraine faked civilian deaths during the Bucha massacre.
-||theguardian.co[.]com^
+||theguardian.co.com^
 ||infosindependants.fr^
 
 ! Spoof of the Jewish Journal.
@@ -289,7 +289,7 @@
 ||unian.pm^
 
 ! Spoofs Walla.
-||walla.com[.]co^
+||walla.com.co^
 
 ! Spoofs the Washington Post.
 ||washingtonpost.ltd^
@@ -578,7 +578,7 @@
 ||topnews.rv.ua^
 ||topnews.sebastopol.ua^
 ||topnews.sumy.ua^
-||topnews.uz[.]ua^
+||topnews.uz.ua^
 ||topnews.vn.ua^
 ||topnews.volyn.ua^
 ||topnews.zp.ua^
@@ -668,7 +668,7 @@
 ! Spoofing of The Atlantic. Likely part of an active measures campaign by the Russian government in 2017. Also part of Endless Mayfly, an Iran-affiliated disinformation campaign.
 ||theatlatnic.com^
 
-! Registered in Lithuania in 2023. Accused by investigative journalists and disinformation researchers of being linked to Russia and of originating the claim that falsely identified the perpetrator of the 2024 Southport stabbing, leading to the 2024 United Kingdom riots. Noted by The Guardian and The Telegraph of potentially using Generative AI in some of its stories. A subsequent BBC investigation in August 2024 did not find evidence of ties to the Russian state, and described the site as "a commercial operation attempting to aggregate crime news while making money on social media."[78]
+! Registered in Lithuania in 2023. Accused by investigative journalists and disinformation researchers of being linked to Russia and of originating the claim that falsely identified the perpetrator of the 2024 Southport stabbing, leading to the 2024 United Kingdom riots. Noted by The Guardian and The Telegraph of potentially using Generative AI in some of its stories. A subsequent BBC investigation in August 2024 did not find evidence of ties to the Russian state, and described the site as "a commercial operation attempting to aggregate crime news while making money on social media."78
 ||channel3now.com^
 
 ! EADaily (Eurasia Daily) is a Russian-language news website that focuses on politics, economics, and international relations, particularly in the post-Soviet space. The website was founded in 2015 and positions itself as a provider of analytical journalism with a strong focus on Eurasian geopolitical issues. EADaily exhibits a strong pro-Russian, nationalist, and right-leaning bias, particularly in its coverage of international affairs. Its reporting often portrays Russia as a stabilizing force in global politics while casting Western nations, especially the United States, NATO, and the European Union, as aggressive or destabilizing actors. Coverage of conflicts involving Russia, such as the war in Ukraine, tends to present Ukrainian forces negatively while amplifying Russian military successes.
