@@ -6,6 +6,48 @@
 ||vk.com^
 ||*.ру^
 ||*.рус^
+||russiatoday.com^
+||yandex.net^
+! Global brand of VK Group
+||my.com^
+||rt.com^
+||sputniknews.com^
+||tass.com^
+||rutracker.org^
+||kaspersky.com^
+||gazprom.com^
+||lukoil.com^
+||russia.tv^
+||yaplakal.com^
+||fishki.net^
+||joyreactor.cc^
+||lordfilm.to^
+||rezka.ag^
+||topwar.ru.com^
+||xbt.com^
+||yastatic.net^
+||yandex.*^
+||userapi.com^
+||vk-portal.net^
+||vkuser.net^
+||mycdn.me^
+||mrusercontent.com^
+
+! Political disinformation website campaigns in russia
+||bild.ltd^
+||bild.pics^
+||bild.eu.com^
+||bild.llc^
+||bild-d.beauty^
+||bild.expert^
+||blld.live^
+||theguardian.co.com^
+||obozrevatel.ltd^
+||okmagazine.us^
+
+! https://www.cybercom.mil/Media/News/Article/3895345/russian-disinformation-campaign-doppelgnger-unmasked-a-web-of-deception/
+||nato.ws^
+||rrn.media^
 
 # Block belarus garbage
 ||*.by^
