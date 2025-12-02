@@ -3,7 +3,7 @@
 ! Description: Combines lists to block all russian garbage and disinformation.
 ! Homepage: https://github.com/SerhiiMandrykin/blocklists
 ! License: MIT
-! Last modified: 2025-12-02T11:08:07.319Z
+! Last modified: 2025-12-02T17:10:08.621Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -17,6 +17,7 @@
 ||russiatoday.com^
 ||yandex.net^
 ||yandexcloud.net^
+||yandexadexchange.net^
 ||my.com^
 ||rt.com^
 ||sputniknews.com^
