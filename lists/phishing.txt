@@ -5,3 +5,4 @@
 /go{3,}gle\.com/
 
 ||whats-platforma.com^
+||ws-platforma.com^
