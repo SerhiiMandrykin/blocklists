@@ -3,3 +3,5 @@
 
 # weird google com domains (e.g. goooooooogle.com)
 /go{3,}gle\.com/
+
+||whats-platforma.com^
