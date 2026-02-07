@@ -3,7 +3,7 @@
 ! Description: Combines lists to block all russian garbage and disinformation.
 ! Homepage: https://github.com/SerhiiMandrykin/blocklists
 ! License: MIT
-! Last modified: 2025-12-29T12:20:30.236Z
+! Last modified: 2026-02-07T09:49:32.431Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
