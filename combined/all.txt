@@ -3,7 +3,7 @@
 ! Description: Combines multiple block lists into one comprehensive list.
 ! Homepage: https://github.com/SerhiiMandrykin/blocklists
 ! License: MIT
-! Last modified: 2026-02-07T09:49:32.206Z
+! Last modified: 2026-02-19T16:26:47.507Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -48,6 +48,9 @@
 ||fusu.cc^
 ||*.win^
 ||*.top^
+||freefoodaid.com^
+||wellnesscaremed.com^
+||wellnesscaremed.org^
 ||t.com^
 /go{3,}gle\.com/
 ||whats-platforma.com^
