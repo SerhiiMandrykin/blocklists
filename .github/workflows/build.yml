@@ -37,6 +37,9 @@ jobs:
       - name: Build 'Fuck All russian'
         run: hostlist-compiler -c configs/fuckallrussian.json -o combined/fuckallrussian.txt
 
+      - name: Build 'cert.gov.ua' List
+        run: hostlist-compiler -c configs/cert.gov.ua.json -o combined/cert.gov.ua.txt
+
       - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
