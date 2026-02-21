@@ -1,0 +1,26 @@
+## Summary
+
+Add malicious domains from CERT-UA#16039 (Кібератаки UAC-0001 на сектор безпеки та оборони із застосуванням програмного засобу LAMEHUG, що використовує LLM).
+
+| Field | Details |
+|-------|---------|
+| **Threat actor** | UAC-0001 (APT28) |
+| **Campaign** | Spear-phishing emails targeting Ukrainian executive authorities and defense sector, distributing LAMEHUG malware — a Python-based backdoor that abuses LLM (Qwen 2.5-Coder via Hugging Face API) to generate and execute reconnaissance commands, then exfiltrates collected data via SFTP or HTTP POST. |
+| **Domains added** | 1 |
+| **Source** | https://cert.gov.ua/article/6284730 |
+
+## Domains to block
+
+- `stayathomeclasses.com` — compromised resource used as C2 server for HTTP POST data exfiltration
+
+## Excluded (legitimate services abused by attackers)
+
+- `huggingface.co` — legitimate AI/ML platform; abused by LAMEHUG for LLM API access (Qwen 2.5-Coder-32B-Instruct)
+- `meta.ua` — legitimate Ukrainian email service; compromised account (`boroda70@meta.ua`) used to send phishing emails
+
+## Notes
+
+- LAMEHUG is a novel Python-based malware that leverages large language models (LLM) to dynamically generate shell commands from text descriptions for host reconnaissance.
+- The malware collects system info, network configuration, AD data, and Microsoft Office documents, then exfiltrates them.
+- Infrastructure (email account and web server) was compromised rather than attacker-registered, but still warrants blocking as active C2.
+- Attribution to UAC-0001 (APT28) is assessed with moderate confidence by CERT-UA.
