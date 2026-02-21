@@ -1,0 +1,15 @@
+{
+  "name": "Combined List - cert.gov.ua",
+  "description": "Combines all the blocked domains found from the cert.gov.ua articles.",
+  "homepage": "https://github.com/SerhiiMandrykin/blocklists",
+  "license": "MIT",
+  "sources": [
+    
+  ],
+  "transformations": [
+    "RemoveComments",
+    "TrimLines",
+    "ConvertToAscii",
+    "InsertFinalNewLine"
+  ]
+}
