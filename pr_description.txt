@@ -1,0 +1,30 @@
+## Summary
+
+Add malicious domain from CERT-UA#19542 ("Бюлетень небезпеки": UAC-0001 (APT28) здійснює кібератаки у відношенні України та країн ЄС з використанням експлойту CVE-2026-21509).
+
+| Field | Details |
+|-------|---------|
+| **Threat actor** | UAC-0001 (APT28) |
+| **Campaign** | Spear-phishing campaign exploiting CVE-2026-21509 in Microsoft Office to deliver the COVENANT C2 framework, targeting Ukrainian government agencies and EU organizations via malicious DOC files distributed over WebDAV/SMB. |
+| **Domains added** | 1 |
+| **Source** | https://cert.gov.ua/article/6287250 |
+
+## Domains to block
+
+- `wellnessmedcare.org` — attacker-controlled C2/malware delivery domain, registered 2026-01-30, used for WebDAV-based exploitation
+
+## Already blocked (from previous update)
+
+- `freefoodaid.com` — already in blocklist
+- `wellnesscaremed.com` — already in blocklist
+
+## Excluded (legitimate services abused by attackers)
+
+- `filen.io` / `filen.net` / `filen-*.net` / `filen.dev` — legitimate cloud storage service; the COVENANT framework uses Filen infrastructure for C2 communication, but blocking these domains would impact legitimate users. CERT-UA recommends monitoring rather than outright blocking.
+
+## Notes
+
+- APT28 rapidly weaponized CVE-2026-21509 (disclosed 2026-01-26) with first exploitation documents created 2026-01-27
+- Attack chain: malicious DOC → WebDAV/SMB fetch → LNK file with code → DLL sideloading via COM hijacking → COVENANT C2 framework
+- The campaign targeted 60+ email addresses of Ukrainian central government agencies and EU organizations
+- CERT-UA expects increased exploitation of this vulnerability due to slow patching cycles
