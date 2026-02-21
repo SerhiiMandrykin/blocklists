@@ -1,0 +1,32 @@
+## Summary
+
+Add malicious domains from CERT-UA#17691 (UAC-0239 cyberattacks using OrcaC2 framework and FILEMESS stealer).
+
+| Field | Details |
+|-------|---------|
+| **Threat actor** | UAC-0239 |
+| **Campaign** | Targeted cyberattacks against Ukrainian Defense Forces and local government authorities using fake SBU (Security Service of Ukraine) communications about "countering Russian DRGs". Delivers OrcaC2 backdoor and FILEMESS file stealer via VHD files. |
+| **Domains added** | 6 |
+| **Source** | https://cert.gov.ua/article/6285731 |
+
+## Domains to block
+
+- `ssu-gov.com` — phishing domain impersonating SSU, hosts C2 infrastructure and phishing pages
+- `promoukrnet.xyz` — C2 server for FILEMESS stealer
+- `ukrnetpromo.xyz` — attacker-controlled infrastructure
+- `ukrostars.xyz` — attacker-controlled infrastructure
+- `mrbeam.shop` — attacker-controlled infrastructure
+- `sbufiles.cloud` — malware distribution domain hosting fake SBU documents
+
+## Excluded (legitimate services abused by attackers)
+
+- `drive.google.com` — Google Drive, used to host malicious archives
+- `paste.c-net.org` — paste service, used to host OrcaC2 payload and VBS dropper
+- `api.telegram.org` — Telegram API, abused by FILEMESS for data exfiltration
+
+## Notes
+
+- UAC-0239 has been active since September 2025, targeting Defense Forces and local governments across multiple Ukrainian regions
+- Attack chain: phishing email → archive download → VHD file → OrcaC2 (remote access) + FILEMESS (file stealer with Telegram exfiltration)
+- OrcaC2 is an open-source Go framework (github.com/Ptkatz/OrcaC2) with capabilities including remote command execution, keylogging, screenshots, process injection, and traffic tunneling
+- FILEMESS is a Go-based file stealer that recursively searches for documents and exfiltrates them via Telegram Bot API

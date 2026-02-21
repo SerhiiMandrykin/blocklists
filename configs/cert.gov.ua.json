@@ -13,6 +13,10 @@
       "type": "adblock"
     },
     {
+      "source": "lists/cert.gov.ua/UAC-0239_OrcaC2_FILEMESS_CERT-UA17691.txt",
+      "type": "adblock"
+    },
+    {
       "source": "lists/cert.gov.ua/UAC-0241_GAMYBEAR_CERT-UA18329.txt",
       "type": "adblock"
     }
