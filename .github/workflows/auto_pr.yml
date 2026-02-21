@@ -1,0 +1,45 @@
+name: Auto Create PR
+
+on:
+  push:
+    branches-ignore:
+      - main
+
+jobs:
+  create-pr:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Check for PR files and create PR
+        run: |
+          if [[ ! -f "pr_title.txt" || ! -f "pr_description.txt" ]]; then
+            echo "pr_title.txt or pr_description.txt not found. Skipping."
+            exit 0
+          fi
+
+          PR_TITLE=$(cat pr_title.txt)
+          BRANCH="${GITHUB_REF_NAME}"
+
+          echo "Creating PR: $PR_TITLE"
+
+          gh pr create \
+            --title "$PR_TITLE" \
+            --body-file pr_description.txt \
+            --base main \
+            --head "$BRANCH" || {
+              echo "PR may already exist, skipping creation."
+              exit 0
+            }
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git rm pr_title.txt pr_description.txt
+          git commit -m "chore: remove PR descriptor files"
+          git push
