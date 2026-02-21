@@ -1,0 +1,10 @@
+# From the https://cert.gov.ua/article/6286942
+||hart-hulp-ua.com^
+||harthulp-ua.com^
+||solidarity-help.com^
+||solidarity-help.org^
+||saint-daniel.com^
+||saint-daniel.org^
+||saint-daniel.world^
+||razem-ua.com^
+||frontline-help.com^
