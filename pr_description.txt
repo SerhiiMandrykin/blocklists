@@ -1,0 +1,26 @@
+## Summary
+
+Add malicious domains from CERT-UA#18329 (Кібератака UAC-0241 у відношенні навчального закладу на сході України з використанням програмного засобу GAMYBEAR).
+
+| Field | Details |
+|-------|---------|
+| **Threat actor** | UAC-0241 |
+| **Campaign** | Phishing campaign targeting educational institutions and government agencies in Sumy region using compromised Gmail accounts, delivering GAMYBEAR backdoor, LAZAGNE password stealer, and file exfiltration tools via malicious LNK files in ZIP archives. |
+| **Domains added** | 1 |
+| **Source** | https://cert.gov.ua/article/6286219 |
+
+## Domains to block
+
+- `grizzlyconnect.net` — C2 infrastructure (also blocks `testnl.grizzlyconnect.net` subdomain automatically)
+
+## Excluded (legitimate services abused by attackers)
+
+- `gmail.com` — compromised email account used for phishing distribution
+- `drive.google.com` — used to host malicious ZIP archive
+
+## Notes
+
+- The attack chain: phishing email → Google Drive ZIP download → LNK file → mshta.exe → HTA file → JS downloader → PowerShell → LAZAGNE + file stealer + GAMYBEAR backdoor
+- GAMYBEAR is a Go-based backdoor communicating over HTTP with C2 endpoints at `/c2/get_commands/` and `/c2/command_out/`
+- The initial compromise of the educational institution occurred on May 26, 2025, with the subsequent phishing campaign launched in November 2025
+- Most network IOCs are IP addresses (136.0.141.69, 45.159.189.85, 62.182.84.66, 185.223.93.102) — only `grizzlyconnect.net` is an attacker-controlled domain suitable for DNS blocking
