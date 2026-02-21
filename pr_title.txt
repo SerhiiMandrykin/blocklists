@@ -1,1 +1,0 @@
-threat/CERT-UA#18329: UAC-0241 GAMYBEAR backdoor domains
