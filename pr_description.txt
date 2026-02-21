@@ -34,3 +34,4 @@ Add malicious domains from CERT-UA#19092 (UAC-0190 targeting Ukrainian Defense F
 - An upgraded version (PLUGGYAPE.V2) was discovered in December 2025 with MQTT protocol support and anti-analysis checks.
 - A Rust-based variant was identified in January 2026.
 - Attackers use legitimate Ukrainian phone numbers and Ukrainian language for social engineering via messengers.
+
