@@ -9,6 +9,10 @@
       "type": "adblock"
     },
     {
+      "source": "lists/cert.gov.ua/UAC-0001_LAMEHUG_CERT-UA16039.txt",
+      "type": "adblock"
+    },
+    {
       "source": "lists/cert.gov.ua/UAC-0099_MATCHBOIL_MATCHWOK_DRAGSTARE_CERT-UA6284949.txt",
       "type": "adblock"
     },
