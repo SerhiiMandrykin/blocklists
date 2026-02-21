@@ -1,1 +1,0 @@
-threat/CERT-UA#19092: UAC-0190 PLUGGYAPE campaign
