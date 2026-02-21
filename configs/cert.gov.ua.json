@@ -9,6 +9,10 @@
       "type": "adblock"
     },
     {
+      "source": "lists/cert.gov.ua/UAC-0099_MATCHBOIL_MATCHWOK_DRAGSTARE_CERT-UA6284949.txt",
+      "type": "adblock"
+    },
+    {
       "source": "lists/cert.gov.ua/UAC-0190_PLUGGYAPE_CERT-UA19092.txt",
       "type": "adblock"
     },
