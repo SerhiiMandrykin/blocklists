@@ -29,16 +29,16 @@ jobs:
 
       - name: Create output directory
         run: mkdir -p combined
-
-      - name: Build 'All' List
-        # Syntax: hostlist-compiler -c <config> -o <output_file>
-        run: hostlist-compiler -c configs/all.json -o combined/all.txt
       
       - name: Build 'Fuck All russian'
         run: hostlist-compiler -c configs/fuckallrussian.json -o combined/fuckallrussian.txt
 
       - name: Build 'cert.gov.ua' List
         run: hostlist-compiler -c configs/cert.gov.ua.json -o combined/cert.gov.ua.txt
+
+      - name: Build 'All' List
+        # Syntax: hostlist-compiler -c <config> -o <output_file>
+        run: hostlist-compiler -c configs/all.json -o combined/all.txt
 
       - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v5
