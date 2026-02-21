@@ -1,0 +1,21 @@
+!
+! Title: Combined List - cert.gov.ua
+! Description: Combines all the blocked domains found from the cert.gov.ua articles.
+! Homepage: https://github.com/SerhiiMandrykin/blocklists
+! License: MIT
+! Last modified: 2026-02-21T15:08:15.394Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.39
+!
+||freefoodaid.com^
+||wellnesscaremed.com^
+||wellnesscaremed.org^
+||hart-hulp-ua.com^
+||harthulp-ua.com^
+||solidarity-help.com^
+||solidarity-help.org^
+||saint-daniel.com^
+||saint-daniel.org^
+||saint-daniel.world^
+||razem-ua.com^
+||frontline-help.com^
