@@ -1,0 +1,7 @@
+# From the https://cert.gov.ua/article/6285731
+||ssu-gov.com^
+||promoukrnet.xyz^
+||ukrnetpromo.xyz^
+||ukrostars.xyz^
+||mrbeam.shop^
+||sbufiles.cloud^
