@@ -3,7 +3,7 @@
 ! Description: Combines typosquatting domains impersonating popular services like Gmail, ukr.net, Outlook, etc.
 ! Homepage: https://github.com/SerhiiMandrykin/blocklists
 ! License: MIT
-! Last modified: 2026-02-23T07:33:35.344Z
+! Last modified: 2026-02-23T08:11:43.581Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -243,3 +243,61 @@
 ||xn--mail-9pb.com^
 ||xn--mail-ksb.com^
 ||xn--mail-47b.com^
+||7kr.net^
+||8kr.net^
+||akr.net^
+||ekr.net^
+||hkr.net^
+||hukr.net^
+||ikr.net^
+||kur.net^
+||okr.net^
+||qkr.net^
+||tkr.net^
+||ucr.net^
+||uikr.net^
+||uir.net^
+||ukb.net^
+||ukd.net^
+||uke.net^
+||ukf.net^
+||ukir.net^
+||uklr.net^
+||ukor.net^
+||ukp.net^
+||ukr-net.com^
+||ukr5.net^
+||ukra.net^
+||ukrb.net^
+||ukrc.net^
+||ukre.net^
+||ukrf.net^
+||ukrg.net^
+||ukri.net^
+||ukrl.net^
+||ukrn.net^
+||ukrnet.net^
+||ukro.net^
+||ukrp.net^
+||ukrs.net^
+||ukrt.net^
+||ukrw.net^
+||ukrx.net^
+||uks.net^
+||ukt.net^
+||ukv.net^
+||ukz.net^
+||ulcr.net^
+||uler.net^
+||ulkr.net^
+||ulr.net^
+||umr.net^
+||uor.net^
+||urk.net^
+||uukr.net^
+||vkr.net^
+||vlcr.net^
+||wkr.net^
+||ykr.net^
+||yukr.net^
+||zkr.net^
