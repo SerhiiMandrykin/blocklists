@@ -7,6 +7,10 @@
     {
       "source": "lists/typosquatting/gmail.com.txt",
       "type": "adblock"
+    },
+    {
+      "source": "lists/typosquatting/ukr.net.txt",
+      "type": "adblock"
     }
   ],
   "transformations": [

@@ -1,0 +1,66 @@
+! UKR.NET Phishing Typosquatting Blocklist
+! Blocks domains impersonating ukr.net using typosquatting techniques
+!   including homoglyphs, bitsquatting, character insertion/omission/replacement,
+!   transposition, vowel-swap, hyphenation, and various combosquatting.
+! Source: Generated via dnstwist analysis of ukr.net
+! Note: Some legitimate services (uk.net, uk2.net, uk4.net, uk5.net, kr.net,
+!   ur.net, jkr.net) have been excluded from this list.
+!
+||7kr.net^
+||8kr.net^
+||akr.net^
+||ekr.net^
+||hkr.net^
+||hukr.net^
+||ikr.net^
+||kur.net^
+||okr.net^
+||qkr.net^
+||tkr.net^
+||ucr.net^
+||uikr.net^
+||uir.net^
+||ukb.net^
+||ukd.net^
+||uke.net^
+||ukf.net^
+||ukir.net^
+||uklr.net^
+||ukor.net^
+||ukp.net^
+||ukr-net.com^
+||ukr5.net^
+||ukra.net^
+||ukrb.net^
+||ukrc.net^
+||ukre.net^
+||ukrf.net^
+||ukrg.net^
+||ukri.net^
+||ukrl.net^
+||ukrn.net^
+||ukrnet.net^
+||ukro.net^
+||ukrp.net^
+||ukrs.net^
+||ukrt.net^
+||ukrw.net^
+||ukrx.net^
+||uks.net^
+||ukt.net^
+||ukv.net^
+||ukz.net^
+||ulcr.net^
+||uler.net^
+||ulkr.net^
+||ulr.net^
+||umr.net^
+||uor.net^
+||urk.net^
+||uukr.net^
+||vkr.net^
+||vlcr.net^
+||wkr.net^
+||ykr.net^
+||yukr.net^
+||zkr.net^
