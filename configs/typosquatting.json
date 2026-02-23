@@ -1,6 +1,6 @@
 {
   "name": "Combined List - Typosquatting",
-  "description": "Combines typosquatting domains impersonating popular services like Gmail, Outlook, etc.",
+  "description": "Combines typosquatting domains impersonating popular services like Gmail, ukr.net, Outlook, etc.",
   "homepage": "https://github.com/SerhiiMandrykin/blocklists",
   "license": "MIT",
   "sources": [
