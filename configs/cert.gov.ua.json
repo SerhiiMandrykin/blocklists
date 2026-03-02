@@ -27,6 +27,10 @@
     {
       "source": "lists/cert.gov.ua/UAC-0241_GAMYBEAR_CERT-UA18329.txt",
       "type": "adblock"
+    },
+    {
+      "source": "lists/cert.gov.ua/UAC-0252_SHADOWSNIFF_SALATSTEALER_CERT-UA20032.txt",
+      "type": "adblock"
     }
   ],
   "transformations": [
