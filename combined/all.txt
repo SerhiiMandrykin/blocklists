@@ -3,7 +3,7 @@
 ! Description: Combines multiple block lists into one comprehensive list.
 ! Homepage: https://github.com/SerhiiMandrykin/blocklists
 ! License: MIT
-! Last modified: 2026-02-23T08:11:43.816Z
+! Last modified: 2026-03-02T18:35:15.404Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -514,6 +514,16 @@
 ||mrbeam.shop^
 ||sbufiles.cloud^
 ||grizzlyconnect.net^
+||digital-ua.digital^
+||nfkavn.bond^
+||ua-gov.info^
+||ukremail.com^
+||sa1at.ru^
+||salat.cn^
+||salator.es^
+||salator.ru^
+||websalat.top^
+||wrat.in^
 ||bgmail.com^
 ||fgmail.com^
 ||g-ail.com^
