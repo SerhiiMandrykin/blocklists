@@ -3,7 +3,7 @@
 ! Description: Combines all the blocked domains found from the cert.gov.ua articles.
 ! Homepage: https://github.com/SerhiiMandrykin/blocklists
 ! License: MIT
-! Last modified: 2026-03-02T18:35:14.907Z
+! Last modified: 2026-03-05T12:03:34.552Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
