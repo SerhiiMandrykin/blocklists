@@ -6,3 +6,6 @@
 
 ||whats-platforma.com^
 ||ws-platforma.com^
+
+# OLX phishing
+||oplati-otrimanie.pertinobna.workers.dev^
