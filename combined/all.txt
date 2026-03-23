@@ -3,7 +3,7 @@
 ! Description: Combines multiple block lists into one comprehensive list.
 ! Homepage: https://github.com/SerhiiMandrykin/blocklists
 ! License: MIT
-! Last modified: 2026-03-05T12:03:35.028Z
+! Last modified: 2026-03-23T12:31:57.469Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -53,6 +53,7 @@
 ||whats-platforma.com^
 ||ws-platforma.com^
 ||oplati-otrimanie.pertinobna.workers.dev^
+||matomo.privatbank.ua^
 ||20minuts.com^
 ||50statesoflie.com^
 ||Acrosstheline.press^
