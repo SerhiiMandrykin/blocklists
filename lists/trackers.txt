@@ -1,0 +1,2 @@
+# Known trackers and analytics services
+||matomo.privatbank.ua^
