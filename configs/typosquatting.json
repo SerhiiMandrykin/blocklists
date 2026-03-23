@@ -15,6 +15,10 @@
     {
       "source": "lists/typosquatting/monobank.ua.txt",
       "type": "adblock"
+    },
+    {
+      "source": "lists/typosquatting/privatbank.ua.txt",
+      "type": "adblock"
     }
   ],
   "transformations": [

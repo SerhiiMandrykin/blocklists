@@ -1,0 +1,8 @@
+! Privatbank Typosquatting Blocklist
+! Blocks domains impersonating privatbank.ua using typosquatting techniques
+! Original: privatbank.ua
+!
+! Bitsquatting
+||pryvatbank.ua^
+! Subdomain-based typosquatting
+||privatba.nk.ua^
