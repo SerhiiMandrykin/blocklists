@@ -3,7 +3,7 @@
 ! Description: Combines known trackers and analytics services.
 ! Homepage: https://github.com/SerhiiMandrykin/blocklists
 ! License: MIT
-! Last modified: 2026-03-23T12:47:58.510Z
+! Last modified: 2026-03-23T13:17:21.924Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
