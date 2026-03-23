@@ -1,0 +1,8 @@
+! Monobank Typosquatting Blocklist
+! Blocks domains impersonating monobank.ua using typosquatting techniques
+! Original: monobank.ua
+!
+! Subdomain-based typosquatting
+||monoba.nk.ua^
+! Various typosquatting domains
+||monobankua.com^

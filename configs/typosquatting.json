@@ -11,6 +11,10 @@
     {
       "source": "lists/typosquatting/ukr.net.txt",
       "type": "adblock"
+    },
+    {
+      "source": "lists/typosquatting/monobank.ua.txt",
+      "type": "adblock"
     }
   ],
   "transformations": [

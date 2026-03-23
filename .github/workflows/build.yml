@@ -36,6 +36,9 @@ jobs:
       - name: Build 'cert.gov.ua' List
         run: hostlist-compiler -c configs/cert.gov.ua.json -o combined/cert.gov.ua.txt
 
+      - name: Build 'Trackers' List
+        run: hostlist-compiler -c configs/trackers.json -o combined/trackers.txt
+
       - name: Build 'Typosquatting' List
         run: hostlist-compiler -c configs/typosquatting.json -o combined/typosquatting.txt
 
