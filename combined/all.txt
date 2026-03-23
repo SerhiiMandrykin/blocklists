@@ -3,7 +3,7 @@
 ! Description: Combines multiple block lists into one comprehensive list.
 ! Homepage: https://github.com/SerhiiMandrykin/blocklists
 ! License: MIT
-! Last modified: 2026-03-23T12:31:57.469Z
+! Last modified: 2026-03-23T12:47:58.939Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -820,3 +820,5 @@
 ||ykr.net^
 ||yukr.net^
 ||zkr.net^
+||monoba.nk.ua^
+||monobankua.com^
