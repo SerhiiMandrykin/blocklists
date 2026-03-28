@@ -3,7 +3,7 @@
 ! Description: Combines all the blocked domains found from the cert.gov.ua articles.
 ! Homepage: https://github.com/SerhiiMandrykin/blocklists
 ! License: MIT
-! Last modified: 2026-03-23T13:17:21.682Z
+! Last modified: 2026-03-28T15:45:36.881Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -45,3 +45,5 @@
 ||salator.ru^
 ||websalat.top^
 ||wrat.in^
+||cert-ua.tech^
+||creepy.ltd^
