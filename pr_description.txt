@@ -1,0 +1,26 @@
+## Summary
+
+Add malicious domains from CERT-UA#21075 (Кібератака UAC-0255 під виглядом сповіщення від CERT-UA із застосуванням програмного засобу AGEWHEEZE).
+
+| Field | Details |
+|-------|---------|
+| **Threat actor** | UAC-0255 |
+| **Campaign** | Phishing emails impersonating CERT-UA distributing AGEWHEEZE RAT via password-protected archives hosted on Files.fm, targeting Ukrainian government organizations, medical centers, security firms, educational institutions, and financial companies. |
+| **Domains added** | 2 |
+| **Source** | https://cert.gov.ua/article/6288047 |
+
+## Domains to block
+
+- `cert-ua.tech` — phishing domain impersonating CERT-UA (registered 2026-03-27 via publicdomainregistry.com)
+- `creepy.ltd` — C2 infrastructure domain (registered 2026-01-21 via reg.ru); subdomains `hiddify.creepy.ltd` and `panel.creepy.ltd` are automatically blocked
+
+## Excluded (legitimate services abused by attackers)
+
+- `files.fm` — legitimate file hosting service used to host malicious archives
+
+## Notes
+
+- AGEWHEEZE is a Go-based RAT with screen control, file management, process/service management, clipboard access, and persistence capabilities
+- C2 server hosted on OVH (AS16276) at 54.36.237.92:8443 with a web panel titled "The Cult" containing Russian-language strings
+- HTML source of the fake CERT-UA page contained references to "КИБЕР СЕРП" Telegram channel (https://t.me/CyberSerp_Official)
+- Persistence via registry run keys, Startup folder, or scheduled tasks (SvcHelper, CoreService)
