@@ -31,6 +31,10 @@
     {
       "source": "lists/cert.gov.ua/UAC-0252_SHADOWSNIFF_SALATSTEALER_CERT-UA20032.txt",
       "type": "adblock"
+    },
+    {
+      "source": "lists/cert.gov.ua/UAC-0255_AGEWHEEZE_CERT-UA21075.txt",
+      "type": "adblock"
     }
   ],
   "transformations": [
