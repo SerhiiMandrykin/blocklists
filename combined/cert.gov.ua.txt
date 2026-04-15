@@ -3,9 +3,9 @@
 ! Description: Combines all the blocked domains found from the cert.gov.ua articles.
 ! Homepage: https://github.com/SerhiiMandrykin/blocklists
 ! License: MIT
-! Last modified: 2026-04-01T07:30:07.356Z
+! Last modified: 2026-04-15T13:30:47.483Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.39
+! Compiled by @adguard/hostlist-compiler v2.0.0
 !
 ||freefoodaid.com^
 ||wellnesscaremed.com^
@@ -35,6 +35,16 @@
 ||mrbeam.shop^
 ||sbufiles.cloud^
 ||grizzlyconnect.net^
+||ukrvarta.online^
+||ukrdopomoga.space^
+||frontforce.org^
+||nazk.linkpc.net^
+||dsszzi.linkpc.net^
+||declaration.linkpc.net^
+||he335f2d353d.publicvm.com^
+||edbo.work.gd^
+||buttrocket.work.gd^
+||vizcpalsuvnbhjltpnrxcc5fo7lw95uy7.oast.fun^
 ||digital-ua.digital^
 ||nfkavn.bond^
 ||ua-gov.info^
