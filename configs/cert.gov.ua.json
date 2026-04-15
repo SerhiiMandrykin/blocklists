@@ -29,6 +29,10 @@
       "type": "adblock"
     },
     {
+      "source": "lists/cert.gov.ua/UAC-0247_AGINGFLY_CERT-UA6288271.txt",
+      "type": "adblock"
+    },
+    {
       "source": "lists/cert.gov.ua/UAC-0252_SHADOWSNIFF_SALATSTEALER_CERT-UA20032.txt",
       "type": "adblock"
     },
