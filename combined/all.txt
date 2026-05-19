@@ -3,7 +3,7 @@
 ! Description: Combines multiple block lists into one comprehensive list.
 ! Homepage: https://github.com/SerhiiMandrykin/blocklists
 ! License: MIT
-! Last modified: 2026-05-19T10:51:11.939Z
+! Last modified: 2026-05-19T10:56:55.718Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -57,7 +57,16 @@
 ||ws-platforma.com^
 ||oplati-otrimanie.pertinobna.workers.dev^
 ||matomo.privatbank.ua^
+||rzk-m.com^
 ||znctrack.net^
+||zmctrack.net^
+||zhctrack.net^
+||zfctrack.net^
+||loadercdn.net^
+||loadercdn.com^
+||goodsrcv.com^
+||b-sing.com^
+||fghtem.com^
 ||20minuts.com^
 ||50statesoflie.com^
 ||Acrosstheline.press^
