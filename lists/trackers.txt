@@ -6,4 +6,13 @@
 # (zmctrack/zhctrack/zfctrack) used to dodge ad blockers. Privacy-redacted WHOIS,
 # no real site (apex → 127.0.0.1), only serves trackers via s.znctrack.net.
 # Flagged by uBlock Origin as adware with anti-adblock behavior.
+||rzk-m.com^
 ||znctrack.net^
+||zmctrack.net^
+||zhctrack.net^
+||zfctrack.net^
+||loadercdn.net^
+||loadercdn.com^
+||goodsrcv.com^
+||b-sing.com^
+||fghtem.com^
