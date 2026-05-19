@@ -1,2 +1,9 @@
 # Known trackers and analytics services
 ||matomo.privatbank.ua^
+
+# znctrack.net — Ukrainian ad/tracking endpoint loaded by gazeta.ua, censor.net,
+# meteofor.com.ua and other UA publishers. Part of a rotating *ctrack.net family
+# (zmctrack/zhctrack/zfctrack) used to dodge ad blockers. Privacy-redacted WHOIS,
+# no real site (apex → 127.0.0.1), only serves trackers via s.znctrack.net.
+# Flagged by uBlock Origin as adware with anti-adblock behavior.
+||znctrack.net^
