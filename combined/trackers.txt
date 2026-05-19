@@ -3,8 +3,9 @@
 ! Description: Combines known trackers and analytics services.
 ! Homepage: https://github.com/SerhiiMandrykin/blocklists
 ! License: MIT
-! Last modified: 2026-04-15T13:30:47.719Z
+! Last modified: 2026-05-19T10:51:11.416Z
 !
-! Compiled by @adguard/hostlist-compiler v2.0.0
+! Compiled by @adguard/hostlist-compiler v2.1.0
 !
 ||matomo.privatbank.ua^
+||znctrack.net^
