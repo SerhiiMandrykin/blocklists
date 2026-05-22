@@ -3,7 +3,7 @@
 ! Description: Combines typosquatting domains impersonating popular services like Gmail, ukr.net, Outlook, etc.
 ! Homepage: https://github.com/SerhiiMandrykin/blocklists
 ! License: MIT
-! Last modified: 2026-05-19T10:56:55.447Z
+! Last modified: 2026-05-22T11:12:51.654Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
