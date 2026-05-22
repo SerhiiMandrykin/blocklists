@@ -1,0 +1,33 @@
+## Summary
+
+Add malicious domains from CERT-UA#6315762 (Оновлений інструментарій UAC-0057: OYSTERFRESH, OYSTERSHUCK та OYSTERBLUES).
+
+| Field | Details |
+|-------|---------|
+| **Threat actor** | UAC-0057 (UNC1151) |
+| **Campaign** | Since spring 2026, CERT-UA has observed phishing emails sent from compromised accounts to government organizations, themed around obtaining certificates via the Prometheus online learning platform. PDF attachments link to ZIP archives containing JS files (OYSTERFRESH) that deploy OYSTERBLUES (info-stealing/loader) and OYSTERSHUCK (decoder), with potential follow-on Cobalt Strike Beacon delivery. |
+| **Domains added** | 8 |
+| **Source** | https://cert.gov.ua/article/6315762 |
+
+## Domains to block
+
+- `a1si.icu`
+- `alertapp.icu`
+- `alexavegas.icu`
+- `algsat.icu`
+- `cgdirector.icu`
+- `lavanille.buzz`
+- `natter.icu`
+- `xsjdsb.icu`
+
+## Excluded (legitimate services abused by attackers)
+
+- `apps.prometheus.org.ua` — legitimate Ukrainian online learning platform (Prometheus); its certificate issuance theme was impersonated as social-engineering bait, but the domain itself is not attacker-controlled.
+- `cloudflare.com` — UAC-0057 infrastructure is hidden behind Cloudflare per the article; Cloudflare is a legitimate CDN/proxy service that must not be blocked.
+
+## Notes
+
+- All attacker-controlled second-level domains were extracted and added at the apex (root) so AdGuard Home blocks every observed subdomain automatically (e.g., `a3ufz.xsjdsb.icu`, `ifo-jupyter.natter.icu`, `mickeymousegamesdealer.alexavegas.icu`, etc.).
+- Typical for UAC-0057 (UNC1151, a Belarus-linked actor): heavy use of the `.icu` TLD, Cloudflare-fronted C2, and disposable disposable second-level domains.
+- Recommended defensive hardening from CERT-UA: restrict execution of `wscript.exe` for standard user accounts to reduce the OYSTERFRESH JS-execution attack surface.
+- Follow-on payload observed in some chains: Cobalt Strike Beacon (CSBEACON) loaded as `EdgeSystemConfig.dll` from `%PROGRAMDATA%\WindowsEdgeApp\`.
