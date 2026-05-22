@@ -1,0 +1,9 @@
+# From the https://cert.gov.ua/article/6315762
+||a1si.icu^
+||alertapp.icu^
+||alexavegas.icu^
+||algsat.icu^
+||cgdirector.icu^
+||lavanille.buzz^
+||natter.icu^
+||xsjdsb.icu^
