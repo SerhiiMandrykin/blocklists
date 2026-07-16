@@ -3,7 +3,7 @@
 ! Description: Combines all the blocked domains found from the cert.gov.ua articles.
 ! Homepage: https://github.com/SerhiiMandrykin/blocklists
 ! License: MIT
-! Last modified: 2026-05-22T11:12:51.105Z
+! Last modified: 2026-07-16T08:53:06.150Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -27,6 +27,16 @@
 ||rutech.tech^
 ||secfileshare.com^
 ||uztickets.com^
+||update-requirements.com^
+||entouchnetworks.com^
+||smartlinkupload.com^
+||diagnostics-monitoring.com^
+||opennetworkconnect.com^
+||softupdater.org^
+||softchecker.org^
+||softpacker.org^
+||offlce366.com^
+||365softupdate.com^
 ||hart-hulp-ua.com^
 ||harthulp-ua.com^
 ||solidarity-help.com^

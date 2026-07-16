@@ -3,7 +3,7 @@
 ! Description: Combines multiple block lists into one comprehensive list.
 ! Homepage: https://github.com/SerhiiMandrykin/blocklists
 ! License: MIT
-! Last modified: 2026-05-22T11:12:51.930Z
+! Last modified: 2026-07-16T08:53:06.952Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -521,6 +521,16 @@
 ||rutech.tech^
 ||secfileshare.com^
 ||uztickets.com^
+||update-requirements.com^
+||entouchnetworks.com^
+||smartlinkupload.com^
+||diagnostics-monitoring.com^
+||opennetworkconnect.com^
+||softupdater.org^
+||softchecker.org^
+||softpacker.org^
+||offlce366.com^
+||365softupdate.com^
 ||hart-hulp-ua.com^
 ||harthulp-ua.com^
 ||solidarity-help.com^
