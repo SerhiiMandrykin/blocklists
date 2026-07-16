@@ -1,0 +1,11 @@
+# From the https://cert.gov.ua/article/6318437
+||update-requirements.com^
+||entouchnetworks.com^
+||smartlinkupload.com^
+||diagnostics-monitoring.com^
+||opennetworkconnect.com^
+||softupdater.org^
+||softchecker.org^
+||softpacker.org^
+||offlce366.com^
+||365softupdate.com^
