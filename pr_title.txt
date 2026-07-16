@@ -1,1 +1,0 @@
-threat/CERT-UA#6318437: UAC-0145 (Sandworm/APT44) ClickFix campaign infrastructure
