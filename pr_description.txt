@@ -1,0 +1,30 @@
+## Summary
+
+Add malicious domains from CERT-UA#6318634 (UAC-0099: LUNCHPOKE, BURNYBEAR, updated MATCHBOIL.V2 and abuse of Notepad++ 8.8.3).
+
+| Field | Details |
+|-------|---------|
+| **Threat actor** | UAC-0099 |
+| **Campaign** | Since mid-summer 2026, UAC-0099 delivers phishing emails leading (via URL shorteners and file-sharing services) to ZIP archives with double-extension VBS scripts. The scripts deploy a legitimate Notepad++ 8.8.3 that sideloads a malicious plugin DLL "NppExport.dll" (LUNCHPOKE), which in turn installs BURNYBEAR and the updated MATCHBOIL.V2 loader. |
+| **Domains added** | 1 |
+| **Source** | https://cert.gov.ua/article/6318634 |
+
+## Domains to block
+
+- `kaufen-qpon.icu` — MATCHBOIL.V2 C2 server (explicitly marked as C2 by CERT-UA)
+
+## Excluded (legitimate services abused by attackers)
+
+- `cdn.imageurlgenerator.com` — explicitly marked as a legitimate resource by CERT-UA; used to host payloads
+- `easysend.co` — explicitly marked as a legitimate resource by CERT-UA; file-sharing service used for payload delivery
+- `filemail.com` — explicitly marked as a legitimate resource by CERT-UA; file-sharing service used for payload delivery
+- `cutt.ly` — legitimate URL shortening service used in the infection chain
+- `r2.cloudflarestorage.com` — Cloudflare R2 object storage (shared cloud infrastructure)
+- `www.dropbox.com` — legitimate file hosting; used by MATCHBOIL.V2 to download WinRAR
+- `ukr.net` — legitimate Ukrainian email provider (sender address `kancel.mkrada@ukr.net` is an email IOC, not a domain to block)
+
+## Notes
+
+- The IP address `64.94.84.204` (C2) was excluded per extraction rules (IP addresses are out of scope for this DNS blocklist).
+- The infection chain abuses a Notepad++ architectural feature (plugin DLL loading, discussed under the disputed CVE-2025-56383); CERT-UA recommends keeping WinRAR, 7-Zip and Notepad++ up to date.
+- BURNYBEAR includes an anti-analysis/resource-exhaustion logic path when run without the expected `setup nodisplay` arguments; MATCHBOIL.V2 now uses WinRAR for payload extraction and fetches it from Dropbox if absent.
