@@ -3,7 +3,7 @@
 ! Description: Combines all the blocked domains found from the cert.gov.ua articles.
 ! Homepage: https://github.com/SerhiiMandrykin/blocklists
 ! License: MIT
-! Last modified: 2026-07-16T08:53:06.150Z
+! Last modified: 2026-07-22T13:28:55.033Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -19,6 +19,7 @@
 ||lavanille.buzz^
 ||natter.icu^
 ||xsjdsb.icu^
+||kaufen-qpon.icu^
 ||egyptanimals.com^
 ||startdeeplearning.com^
 ||geostat.lat^
