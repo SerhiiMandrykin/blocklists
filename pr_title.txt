@@ -1,0 +1,1 @@
+threat/CERT-UA#6318863: UAC-0145 (Sandworm) fake job recruitment / trojanized SopraVPN

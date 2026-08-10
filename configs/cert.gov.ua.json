@@ -29,6 +29,10 @@
       "type": "adblock"
     },
     {
+      "source": "lists/cert.gov.ua/UAC-0145_SopraVPN_CERT-UA6318863.txt",
+      "type": "adblock"
+    },
+    {
       "source": "lists/cert.gov.ua/UAC-0190_PLUGGYAPE_CERT-UA19092.txt",
       "type": "adblock"
     },
