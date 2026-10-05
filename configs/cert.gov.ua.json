@@ -55,6 +55,10 @@
     {
       "source": "lists/cert.gov.ua/UAC-0255_AGEWHEEZE_CERT-UA21075.txt",
       "type": "adblock"
+    },
+    {
+      "source": "lists/cert.gov.ua/UAC-0277_LUNEXSTEALER_ClickFix_CERT-UA6319983.txt",
+      "type": "adblock"
     }
   ],
   "transformations": [

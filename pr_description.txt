@@ -1,0 +1,51 @@
+## Summary
+
+Add malicious domains from CERT-UA#6319983 (UAC-0277: ClickFix на скомпрометованих вебсайтах для поширення LUNEXSTEALER).
+
+| Field | Details |
+|-------|---------|
+| **Threat actor** | UAC-0277 |
+| **Campaign** | In September 2026 CERT-UA identified 100+ compromised websites injected with malicious JavaScript that shows a fake Cloudflare "I am not a robot" check to Windows visitors arriving from search engines. The ClickFix prompt tricks the user into running `msiexec` against an attacker URL, installing LUNEXSTEALER (infostealer/RAT) plus the LUNARAXE malicious browser extension and NAIVEMESS native-messaging host. |
+| **Domains added** | 22 |
+| **Source** | https://cert.gov.ua/article/6319983 |
+
+## Domains to block
+
+- `ahahahahadebili.help`
+- `fsputnik.com`
+- `sputnk.com`
+- `uasputnik.com`
+- `uasputn.com`
+- `partaonline.click`
+- `vibestglobal.com`
+- `flareru.live`
+- `plerdgate.com`
+- `ukrainerada.top`
+- `radaukraine.top`
+- `astratechuthree.top`
+- `spectre.pp.ua`
+- `chillplace.pp.ua`
+- `alohapages.pp.ua`
+- `vatra.pp.ua`
+- `fainomedia.pp.ua`
+- `trembita.pp.ua`
+- `archivision.pp.ua`
+- `ilovecutecatetetes.click`
+- `ilovecutecatics.com`
+- `ilovecutecaticval.com`
+
+## Excluded (legitimate services abused by attackers)
+
+- `pp.ua` — free public-suffix domain registry (Ukrainian), shared by many legitimate users; only the specific attacker-registered subdomains above are blocked
+- Polygon / Ethereum smart-contract RPC infrastructure — used by the injected script to fetch the current TDS domain and operating mode, but these are legitimate public blockchain networks and are not named as IOCs in the article
+- Search engines named as referrer triggers (Google, DuckDuckGo, meta.ua, bigmir.net) — legitimate services
+
+## Notes
+
+- The fake Cloudflare page domain and script mode (0 inactive / 1 passive tracking / 2 show ClickFix) are stored in a Polygon or Ethereum smart contract, letting the actor rotate domains centrally without re-accessing the compromised sites. Expect new domains to appear; the TDS path `/tds/tds.php` is a useful hunting pattern.
+- Three MSI variants were observed: direct LUNEXSTEALER install; a loader with UAC bypass, Defender exclusions and BYOVD via vulnerable AMD `PDFWKRNL.sys` (CVE-2023-20598); and DLL side-loading via legitimate `FnHotkeyUtility.exe` loading malicious `spkvol.dll`.
+- LUNARAXE extension masquerades as "Microsoft Office Word Editor", steals cookies/history/form credentials, strips CSP headers, and gives remote browser control; NAIVEMESS (`com.lunex.explorer` native-messaging host) adds file system access.
+- C2 over HTTP and WebSocket also uses bare IPs (107.175.82.242, 193.178.158.61, 193.178.159.128, 109.238.86.112/113, 176.53.159.40, 159.69.234.218) which cannot be blocked at the DNS level; block them at the firewall.
+- Recommendations from CERT-UA: disable Win+R for standard users via GPO, restrict non-admin MSI installs and monitor `msiexec.exe` with a URL argument, enable the Microsoft Vulnerable Driver Blocklist, and allowlist browser extensions.
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
