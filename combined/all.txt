@@ -3,9 +3,9 @@
 ! Description: Combines multiple block lists into one comprehensive list.
 ! Homepage: https://github.com/SerhiiMandrykin/blocklists
 ! License: MIT
-! Last modified: 2026-08-10T09:30:02.788Z
+! Last modified: 2026-10-05T13:42:39.841Z
 !
-! Compiled by @adguard/hostlist-compiler v2.1.0
+! Compiled by @adguard/hostlist-compiler v2.1.1
 !
 ||*.ru^
 ||*.su^
@@ -574,6 +574,28 @@
 ||wrat.in^
 ||cert-ua.tech^
 ||creepy.ltd^
+||ahahahahadebili.help^
+||fsputnik.com^
+||sputnk.com^
+||uasputnik.com^
+||uasputn.com^
+||partaonline.click^
+||vibestglobal.com^
+||flareru.live^
+||plerdgate.com^
+||ukrainerada.top^
+||radaukraine.top^
+||astratechuthree.top^
+||spectre.pp.ua^
+||chillplace.pp.ua^
+||alohapages.pp.ua^
+||vatra.pp.ua^
+||fainomedia.pp.ua^
+||trembita.pp.ua^
+||archivision.pp.ua^
+||ilovecutecatetetes.click^
+||ilovecutecatics.com^
+||ilovecutecaticval.com^
 ||bgmail.com^
 ||fgmail.com^
 ||g-ail.com^
