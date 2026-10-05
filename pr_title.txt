@@ -1,1 +1,0 @@
-threat/CERT-UA#6319983: UAC-0277 ClickFix on compromised websites distributing LUNEXSTEALER
